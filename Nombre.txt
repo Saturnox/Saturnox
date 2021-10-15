@@ -1,7 +1,5 @@
 Ana Valentina Duo
 Nahuel Rodriguez
-<<<<<<< HEAD
+Roman Enrich
 Franco Tiviroli
-=======
-Franco Tiviroli Renovado
->>>>>>> rama_franco
+Valeria Riveros
